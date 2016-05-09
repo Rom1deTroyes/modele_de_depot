@@ -1,4 +1,10 @@
-# Lisez-moi
+---
+title: Modèle de dépôt
+description: Modèle tout prêt à dupliquer pour faciliter votre première création de dépôt.
+image_url: https://github.com/multibao/contributions/blob/master/media/petalouda-modifiedbytom-cc-by-nc.jpg?raw=true
+---
+
+# Modèle de dépôt
 
 Dupliquez ce modèle de dépôt de fiches pour faciliter votre première création de dépôt
 
