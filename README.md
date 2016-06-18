@@ -17,8 +17,8 @@ Dupliquez ce modèle de dépôt de fiches pour faciliter votre première créati
 
 Ecrire ici une courte présentation qui sera affichée sur multiBàO. 
 Pour vous inspirer, vous pouvez explorer la documentation:
-* [comment décrire mon dépôt de fiches](http://multibao.org/multibao/documentation/fiches/decrire_depot.md)
-* [comment faire pour que mon travail soit utilisable](http://www.multibao.org/multibao/documentation/fiches/fiches_utiles.md).
+* [comment décrire mon dépôt de fiches](http://multibao.org/#multibao/documentation/blob/master/fiches/decrire_depot.md)
+* [comment faire pour que mon travail soit utilisable](http://www.multibao.org/#ultibao/documentation/blob/master/fiches/fiches_utiles.md).
 
 ## Nous contacter 
 
@@ -28,5 +28,5 @@ N'hésitez pas à mettre un lien vers votre site web.
 ## Licence
 
 Indiquez ici la licence sous laquelle est publiée votre dépôt de fiches. 
-Lire [comment choisir une licence libre ou comment faire pour que mes fiches soient réutilisables](http://www.multibao.org/multibao/documentation/fiches/fiches_reutilisables.md). 
+Lire [comment choisir une licence libre ou comment faire pour que mes fiches soient réutilisables](http://www.multibao.org/#multibao/documentation/blob/master/fiches/fiches_reutilisables.md). 
 
